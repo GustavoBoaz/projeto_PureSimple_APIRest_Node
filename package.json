@@ -1,0 +1,12 @@
+{
+  "name": "boaz_api",
+  "version": "1.0.0",
+  "description": "Esta api é para apresentação de entrevista",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/app/server.js",
+    "test": "node src/tests/**/**/*.js"
+  },
+  "author": "Gustavo Boaz",
+  "license": "ISC"
+}
